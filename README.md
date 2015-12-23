@@ -2,6 +2,8 @@
 
 A simple python http application running inside of docker container that prints out environment variables. This is useful for debugging a [12-factor-app](http://12factor.net/) style service deployment.
 
+![](http://i.imgur.com/xawXWue.png)
+
 #### To Build
 
     docker build -t whalesalad/docker-debug .
