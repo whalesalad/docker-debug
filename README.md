@@ -1,7 +1,7 @@
 # docker-debug
 
-![Docker Stars](https://img.shields.io/docker/stars/whalesalad/docker-debug.svg)
-![Docker Pulls](https://img.shields.io/docker/pulls/whalesalad/docker-debug.svg)
+[![Docker Stars](https://img.shields.io/docker/stars/whalesalad/docker-debug.svg)](https://hub.docker.com/r/whalesalad/docker-debug/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/whalesalad/docker-debug.svg)](https://hub.docker.com/r/whalesalad/docker-debug/)
 [![Image Size](https://img.shields.io/imagelayers/image-size/whalesalad/docker-debug/latest.svg)](https://imagelayers.io/?images=whalesalad/docker-debug:latest)
 [![Image Layers](https://img.shields.io/imagelayers/layers/whalesalad/docker-debug/latest.svg)](https://imagelayers.io/?images=whalesalad/docker-debug:latest)
 
