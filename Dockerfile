@@ -1,4 +1,6 @@
-FROM python:2.7.10
+FROM gliderlabs/alpine:3.2
+
+RUN apk --update add python
 
 EXPOSE 8080 8080
 
