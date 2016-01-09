@@ -20,3 +20,7 @@ A simple python http application running inside of docker container that prints 
 
     # Attached
     docker run -i -t -p 8080:8080 whalesalad/docker-debug
+
+#### TODO
+
+- [ ] Enable content negotiation and/or a `.json` endpoint to request a json format of this instead of HTML.
